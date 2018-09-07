@@ -1,0 +1,5 @@
+python neural_style.py eval --content-image rudy-luna3.jpeg --model psycho.model --output-image rudylunapsycho.jpg --cuda 1
+
+
+python neural_style.py train --dataset dataset --style-image psycho.jpg --save-model-dir save --epochs 3 --cuda 1
+

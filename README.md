@@ -10,3 +10,7 @@ Examples:
 ![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/rudy-luna3.jpeg)
 ![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/ballmurel.jpg)
 ![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/sample12.jpg)
+
+![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/rudy-luna3.jpeg)
+![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/rain-princess.jpg)
+![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/sample7.jpg)

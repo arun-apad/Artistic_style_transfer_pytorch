@@ -3,4 +3,4 @@ Transfer the artistic style from one image to another using pytorch and gpu, an 
 
 Examples:
 
-![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/rudy-luna3.jpg)
+![alt text](https://github.com/arun-apad/Artistic_style_transfer_pytorch/blob/master/rudy-luna3.jpeg)
